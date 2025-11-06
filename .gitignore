@@ -1,4 +1,4 @@
-# Root node modules (if present)
+
 node_modules/
 
 # Frontend & backend node_modules
